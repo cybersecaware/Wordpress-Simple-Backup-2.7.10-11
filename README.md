@@ -59,7 +59,7 @@ python wp_backup_fetcher.py -i 192.168.1.1 -p 8080 -u /wp-content -f backup.zip 
 
 ![Read Passwd](images/Example_2.png "Read /etc/passwd")
 
-![Read Flag](images/Example_1.png"Read Flag")
+![Read Flag](images/Example_1.png "Read Flag")
 
 
 
